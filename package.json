@@ -1,0 +1,19 @@
+{
+  "name": "promisedemo",
+  "version": "1.0.0",
+  "description": "Simple for promise",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "promise",
+    "simple",
+    "demo",
+    "nodejs"
+  ],
+  "author": "Ryouaki (46517115@qq.com)",
+  "license": "MIT",
+  "dependencies": {
+    "promise": "^7.1.1"
+  }
+}
