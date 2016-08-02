@@ -12,4 +12,5 @@ Simple for promise
 ## Reference
 [API Document](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
-Author:Ryouaki(46517115@qq.com)
+## Author
+Ryouaki(46517115@qq.com)
